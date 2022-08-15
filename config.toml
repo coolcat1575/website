@@ -1,5 +1,5 @@
 title = "Travelling Pants"
-baseURL = "https://travellingpants.netlify.app/"
+baseURL = "https://travellingpants.netlify.app"
 languageCode = "en-us"
 theme = "ananke"
 resourceDir = "../resources"
