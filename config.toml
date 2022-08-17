@@ -6,7 +6,7 @@ resourceDir = "../resources"
 
 #DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
+Paginate = 5 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
 
@@ -28,7 +28,7 @@ enableRobotsTXT = true
 
 [params]
   text_color = ""
-  author = ""
+  author = "Pierre Bjarnfelt"
   favicon = ""
   site_logo = ""
   description = "The last theme you'll ever need. Maybe."
