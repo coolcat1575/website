@@ -1,9 +1,9 @@
 ---
 date: 2022-04-29T10:58:08-04:00
-description: "Stocken"
-featured_image: "/images/imengine.public.nwt.infomaker.jpg"
+description: "Hafsten Resort"
+featured_image: "/images/hafsten.jpg"
 tags: ["motorhome"]
-title: "Stocken 2022"
+title: "Hafsten Resort 2022"
 ---
 
 The trip to Stocken...
