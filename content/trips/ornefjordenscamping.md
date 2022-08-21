@@ -1,7 +1,7 @@
 ---
 date: 2022-08-20T10:58:08-04:00
 description: "örnefjordens camping"
-featured_image: "/images/orn.jpg
+featured_image: "/images/orn.jpg"
 tags: ["motorhome"]
 title: "Örnefjordens camping 2022"
 ---
