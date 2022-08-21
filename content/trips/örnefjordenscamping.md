@@ -1,5 +1,5 @@
 ---
-date: 2022-08-20 10:58:08-04:00
+date: 2022-08-20T10:58:08-04:00
 description: "örnefjordens camping"
 featured_image: "/images/örn.jpg
 tags: ["motorhome"]
