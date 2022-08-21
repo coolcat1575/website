@@ -1,9 +1,9 @@
 ---
-date: 2022-04-29T10:58:08-04:00
-description: "Stocken"
+date: 2022-04-02T10:58:08-04:00
+description: "Haverud2022"
 featured_image: "/images/imengine.public.nwt.infomaker.jpg"
 tags: ["motorhome"]
-title: "Stocken 2022"
+title: "Haverud 2022"
 ---
 
 The trip to Stocken...
