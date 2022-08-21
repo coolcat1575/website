@@ -1,7 +1,7 @@
 ---
 date: 2022-04-02T10:58:08-04:00
 description: "Haverud2022"
-featured_image: "/images/imengine.public.nwt.infomaker.jpg"
+featured_image: "/images/Haverud.jpg"
 tags: ["motorhome"]
 title: "Haverud 2022"
 ---
