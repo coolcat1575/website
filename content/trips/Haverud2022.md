@@ -4,6 +4,7 @@ description: "Haverud2022"
 featured_image: "/images/Haverud.jpg"
 tags: ["motorhome"]
 title: "Haverud 2022"
+author: "Isabelle Bjarnfelt"
 ---
 
 The trip to Stocken...
