@@ -7,7 +7,7 @@ title: "Örnefjordens camping 2022"
 ---
 
 The trip to Stocken... Testar
-![Stocken](/images/imengine.public.nwt.infomaker.jpg)
+![Stocken](/images/ornefjordenscaming.jpg)
 On that day, there was to be a bonfire on the Place de Grève, a maypole at
 the Chapelle de Braque, and a mystery at the Palais de Justice. It had
 been cried, to the sound of the trumpet, the preceding evening at all the
