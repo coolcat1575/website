@@ -11,3 +11,4 @@ draft: true
 Titel
 ![titel](/images/bild.jpg)
 Textmassa......
+![titel](/images/bild.jpg)
