@@ -6,7 +6,7 @@ menu:
   main:
     weight: 1
 ---
-{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Illustration from Victor Hugo et son temps (1881)" >}}
+{{< figure src="/images/Victor_Hugo-Hunchback.jpg" title="Hur allting började" >}}
 
 Vi hyrde husbil första gången en långhelg 2014 och tyckte om konceptet. Sedan dess har vi i olika omgångar funderat och tittat på att köpa en. Vi ville komma ut, kunna koppla av, släppa jobbet, träffa nya människor, se nya platser. När sedan Coronapandemin slog till började vi på helgerna åka ut till olika ställen(Kinnekulle, Viltlycke utanför Tanum och Ramsvikslandet) och vandra. Dels för att hålla igång, Pierre som satt hemma i källaren varenda dag och jobbade ville komma ut och andas frisk luft. Isabelle som i sitt jobb träffade mycket folk i alla åldrar behövde komma ut för att döda ev. bakterier och bygga på ett starkt immunförsvar för att inte bli smittad. 
 Den 20 november 2021 köpte vi våran Hobby T65 GE hos Svea Husbilar i Kinna. En bra bil att börja med. Och den har verkligen infriat alla drömmar vi hade. Det är en oslagbar frihet att när du har lust, packa in lite mat i husbilen och åk iväg, du bestämmer helt själv vart du vill åka. Och hela tiden hittar du nya ställen att upptäcka. Vi älskar västkusten och åker gärna dit men det kan lika väl bli Dalsland eller inåt Västergötland. Vi bor ju ganska nära västkusten(15 min från Uddevalla) så det blir ofta ditåt.
