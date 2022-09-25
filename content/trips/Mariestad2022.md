@@ -3,7 +3,7 @@ date: 2022-06-23T10:58:08-04:00
 description: "Mariestad"
 featured_image: "/images/Mariestad_Ställplats.jpg"
 tags: ["motorhome"]
-title: "Mariestads Ställplats 2022"
+title: "Midsommarhelg 2022"
 ---
 
 ![Ställplatsen från ovan](/images/imengine.public.nwt.infomaker.jpg)
