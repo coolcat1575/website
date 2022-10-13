@@ -9,4 +9,6 @@ title: "test 1"
 Testar igen
 ![Stocken](/images/imengine.public.nwt.infomaker.jpg)
 
+![Stocken](/images/imengine.public.nwt.infomaker.jpg)
+
  
